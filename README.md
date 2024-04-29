@@ -1,0 +1,1 @@
+This is my repository for machine learning exploration. It includes various implementations that I've worked through, a continually updated table of machine learning algorithms and tools, and other resources I find useful. If you have any questions or suggestions please let me know!
